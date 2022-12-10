@@ -25,6 +25,7 @@ Q.2: WAP in C to create a structure in which inputs can be taken name, enrollnme
      4. Branch
      5. DOR
 
-## Send this PR With #PR_1   (number might change accordingly)
+- Send this PR With #PR_1   (number might change accordingly)
+- Join this Discord Server for more: https://discord.gg/2afMtFpCcV
 
 # Good Luck guys 🍀🍀
